@@ -2,7 +2,7 @@
 Validar formularios con Javascript 
 <br>
 
-http://didesweb.com/
+http://didesweb.com/validarformularios
 <br>
 
 Este obra está bajo una licencia de Creative Commons Attribution 3.0
